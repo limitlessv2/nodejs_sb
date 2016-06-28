@@ -73,6 +73,7 @@ Vagrant.configure(2) do |config|
      sudo apt-get install -y nodejs
      sudo npm install -y express
      sudo npm install -g nodemon
+     sudo npm install -g express-generator
 
    SHELL
 end

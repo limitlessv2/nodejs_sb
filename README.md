@@ -12,10 +12,11 @@ express $project_name
 > cd $project_name
 
 Now about adding dependencies
-edit the package.json file 
+edit the package.json file
 
 
 remove jade
+
 
 
 add 

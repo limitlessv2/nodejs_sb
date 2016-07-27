@@ -14,6 +14,7 @@ express $project_name
 Now about adding dependencies
 edit the package.json file 
 
+
 remove jade
 
 

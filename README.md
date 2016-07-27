@@ -5,6 +5,7 @@ node js vagrant sandbox
 Useful commands
 
 Start a new project
+
 express $project_name
 
 

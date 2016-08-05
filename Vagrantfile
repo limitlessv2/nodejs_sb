@@ -74,6 +74,7 @@ Vagrant.configure(2) do |config|
      sudo npm install -y express
      sudo npm install -g nodemon
      sudo npm install -g express-generator
+     sudo npm install -y express-handlebars --save
 
    SHELL
 end
